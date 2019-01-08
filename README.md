@@ -1,2 +1,2 @@
 # Minesweeper
-A simple Minesweeper Game with highscore
+A simple Minesweeper game with highscore
